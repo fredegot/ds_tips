@@ -33,7 +33,7 @@ width="600"></center>
 + [Introduction to the normal distribution]()  
 + [Introduction to the Chi-squared and F distribution]()  
 + [Introduction to binomial distributions]()  
-+ [Introduction to hypergeometric, geometric, negative binomial and multinomial distributions]()  
++ [Introduction to hypergeometric, geometric]()  
 
 ## 🔮 Machine learning
 + [Working with dummy variables and factors]()  
