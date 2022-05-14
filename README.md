@@ -12,7 +12,38 @@ width="600"></center>
 
 | Legend | Category |  
 |--------|----------|  
-| 📚 | What is Data? |  
-| 🔢 | Statistical theory |  
+|🧹| Data Cleaning | 
+| 🎨 | Data visualisation |
+| 🔢 | Statistical theory | 
 | 🔮 | Machine learning |  
-| 🎨 | Data visualisation |  
+  
+
+
+# Tutorials  
+## 🧹 Data Cleaning  
++ [Data cleaning using `data.table` and `tidyverse`]()  
++ [Manipulating character strings using regular expressions]()   
+
+## 🎨 Data visualisation
++ [An introduction to `ggplot2`]()
+
+## 🔢 Statistical theory   
++ [Introduction to expectation and variance]()  
++ [Beyond expectations: centrality measures in statistics]()  
++ [Introduction to the normal distribution]()  
++ [Introduction to the Chi-squared and F distribution]()  
++ [Introduction to binomial distributions]()  
++ [Introduction to hypergeometric, geometric, negative binomial and multinomial distributions]()  
+
+## 🔮 Machine learning
++ [Working with dummy variables and factors]()  
+
+
+
+# Citations  
+
++ None, or...
+  https://CRAN.R-project.org/package=tidyverse  
+
+
+
