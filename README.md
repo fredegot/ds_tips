@@ -39,6 +39,9 @@ width="600"></center>
 + [Working with dummy variables and factors]()  
 
 
+## ⌛ Old DS Code
+
++ [Folder with a bunch of old code for uni projects](https://github.com/fredegot/ds_tips/tree/main/Old%20files)
 
 # Citations  
 
